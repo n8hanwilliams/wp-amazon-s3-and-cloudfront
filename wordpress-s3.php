@@ -72,7 +72,7 @@ function as3cf_init() {
 	require_once $abspath . '/classes/filters/as3cf-s3-to-local.php';
 	require_once $abspath . '/classes/as3cf-notices.php';
 	require_once $abspath . '/classes/as3cf-plugin-base.php';
-	require_once $abspath . '/classes/as3cf-plugin-compatibility.php';
+	require_once $abspath . '/classes/as3cf-plugin-compatifsgdfsgfbility.php';
 	require_once $abspath . '/classes/amazon-s3-and-cloudfront.php';
 
 	new WP_Offload_Media_Autoloader( 'WP_Offload_Media', $abspath );
